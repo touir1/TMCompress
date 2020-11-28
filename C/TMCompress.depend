@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1606342826 source:e:\to copy\projects\c\tmcompress\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CompressHandler.h"
+	"Utils.h"
+
+1606341181 source:e:\to copy\projects\c\tmcompress\compresshandler.c
+	"CompressHandler.h"
+
+1606339000 e:\to copy\projects\c\tmcompress\compresshandler.h
+
+1606342443 source:e:\to copy\projects\c\tmcompress\utils.c
+	"Utils.h"
+
+1606342404 e:\to copy\projects\c\tmcompress\utils.h
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
